@@ -8,6 +8,7 @@ connectDB();
 // Define Routes
 // app.use('/api/users', require('./routes/api/users'));
 // app.use('/api/auth', require('./routes/api/auth'));
+// app.use('/api/auth', require('./routes/api/book'))
 
 
 // const PORT = 5000;
